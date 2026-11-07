@@ -57,12 +57,6 @@ Cada projeto representa uma nova exploração: uma oportunidade de experimentar,
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📡 Telemetria do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcsAndre&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A9B9D5&icon_color=8EA7D5&text_color=DCE6F5&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcsAndre&layout=compact&hide_border=true&bg_color=0B1020&title_color=A9B9D5&text_color=DCE6F5" alt="Linguagens mais utilizadas"/>
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
