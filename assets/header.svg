@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Marcos André — Universo da tecnologia</title>
+  <desc id="desc">Cabeçalho minimalista em tons de azul-marinho, sem elementos decorativos.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101B31"/>
+      <stop offset="55%" stop-color="#0B1426"/>
+      <stop offset="100%" stop-color="#111E35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#background)"/>
+  <text x="600" y="116" text-anchor="middle" fill="#E8EEF8"
+        font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700"
+        letter-spacing="1.5">MARCOS ANDRÉ</text>
+  <text x="600" y="160" text-anchor="middle" fill="#A9B9D5"
+        font-family="Segoe UI, Arial, sans-serif" font-size="19"
+        letter-spacing="4">TECNOLOGIA · DESENVOLVIMENTO · DESCOBERTA</text>
+</svg>
