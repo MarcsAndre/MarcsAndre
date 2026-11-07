@@ -71,7 +71,7 @@ Cada projeto representa uma nova exploração: uma oportunidade de experimentar,
 <br/>
 
 <p align="center">
-   alt="O universo é vasto, mas todo grande projeto começa com um pequeno commit."/>
+   "O universo é vasto, mas todo grande projeto começa com um pequeno commit."/>
 </p>
 
 <p align="center">
