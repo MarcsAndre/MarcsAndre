@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080E18"/>
+      <stop offset=".55" stop-color="#101C2B"/>
+      <stop offset="1" stop-color="#0A1421"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <text x="84" y="143" fill="#E8EEF7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="5" opacity=".78">DIÁRIO DE BORDO</text>
+  <text x="80" y="196" fill="#F4F7FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="650" letter-spacing="1.5">MARCOS ANDRÉ</text>
+  <text x="84" y="250" fill="#A9B9D5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2.2">TECNOLOGIA • DESENVOLVIMENTO • DESCOBERTA</text>
+</svg>
