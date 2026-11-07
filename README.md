@@ -81,5 +81,5 @@ Cada projeto representa uma nova exploração: uma oportunidade de experimentar,
 </p>
 
 <p align="center">
-  <sub>✦ KEEP EXPLORING · KEEP CREATING ✦</sub>
+  <sub>✦ Continue explorando e Continue criando ✦</sub>
 </p>
