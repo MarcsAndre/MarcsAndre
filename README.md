@@ -71,7 +71,7 @@ Cada projeto representa uma nova exploração: uma oportunidade de experimentar,
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-O%20universo%20%C3%A9%20vasto%2C%20mas%20todo%20grande%20projeto%20come%C3%A7a%20com%20um%20pequeno%20commit.-A9B9D5?style=flat&labelColor=0B1020" alt="O universo é vasto, mas todo grande projeto começa com um pequeno commit."/>
+   alt="O universo é vasto, mas todo grande projeto começa com um pequeno commit."/>
 </p>
 
 <p align="center">
